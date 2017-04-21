@@ -23,5 +23,5 @@ Output->
 Assam	0
 Kerala	1
 Madhya Pradesh       0
-Maharashtra              0
-Uttar Pradesh            3
+Maharashtra          0
+Uttar Pradesh        3
